@@ -1,6 +1,6 @@
 # 🏠 Real Estate Management System  
 
-Link : https://drive.google.com/drive/folders/1fLBtsB4W_-AxHRaMcaqh43gkQ0iRGDYi?usp=drive_link
+Link :https://drive.google.com/file/d/17wA0PCkk84g32Q6zWIemZ4FfpFNJPZg0/view?usp=drive_link
 
 A **full-stack PHP & MySQL powered platform** for managing real estate listings, agents, and customer interactions.  
 The system provides role-based dashboards for **Admins, Agents, and Customers**, with integrated property management, authentication, and payment support.  
